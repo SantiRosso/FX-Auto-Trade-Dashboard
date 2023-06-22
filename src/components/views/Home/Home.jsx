@@ -27,12 +27,12 @@ const Home = () => {
             <h5>{info?.data?.balance}</h5>
             <h3>Equity:</h3>
             <h5>{info?.data?.equity}</h5>
-            <h3>id:</h3>
+            {/* <h3>id:</h3>
             <h5>{info?.data?.id}</h5>
             <h3>Symbol:</h3>
             <h5>{info?.data?.symbol}</h5>
             <h3>Unrealized Profit:</h3>
-            <h5>{info?.data?.unrealizedProfit}</h5>
+            <h5>{info?.data?.unrealizedProfit}</h5> */}
 
         </div> 
     )
